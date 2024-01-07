@@ -1,0 +1,1 @@
+A Java program with a graphical user interface (GUI) that allows users to input a temperature value in Celsius, Fahrenheit, or Kelvin and converts it into the other two units, displaying the converted values for easy temperature conversion
